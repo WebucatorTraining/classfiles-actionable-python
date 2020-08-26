@@ -30,27 +30,27 @@ But be a good student too. When reading this book, you should be sitting at your
  * To do data analysis and create beautiful charts using JupyterLab, NumPy, pandas, and matplotlib.
 
 ## Table of Contents
- * Lesson 1: Setting Up Your Computer – &#8728; Getting the demo and exercise files &#8728; Installing software.
- * Lesson 2: Python Basics – &#8728; How Python works &#8728; Python’s place in the world of programming languages &#8728; Python literals &#8728; Python comments &#8728; Variables and Python data types &#8728; Simple modules &#8728; Outputting data with `print()` &#8728; Collecting user input.
- * Lesson 3: Functions and Modules – &#8728; Defining and calling functions &#8728; Parameters and arguments &#8728; Default values for parameters &#8728; Variable scope &#8728; Return values &#8728; Creating and importing modules.
- * Lesson 4: Math – &#8728; Basic math in Python &#8728; The `math` module &#8728; The `random` module.
- * Lesson 5: Python Strings – &#8728; String basics &#8728; Special characters &#8728; Multi-line strings &#8728; Indexing and slicing strings &#8728; Common string operators and methods &#8728; Formatting strings &#8728; Built-in string functions.
- * Lesson 6: Iterables: Sequences, Dictionaries, and Sets – &#8728; Types of iterables available in Python &#8728; Lists &#8728; Tuples &#8728; Ranges &#8728; Dictionaries &#8728; Sets &#8728; The `*args` and `**kwargs` parameters.
- * Lesson 7: Virtual Environments, Packages, and pip – &#8728; Creating virtual environments &#8728; Activating and deactivating virtual environments &#8728; Installing packages with pip &#8728; Sharing project requirements so others can create a matching virtual environment &#8728; Deleting a virtual environment.
- * Lesson 8: Flow Control – &#8728; `if` conditions in Python &#8728; Loops in Python &#8728; Generator functions &#8728; List comprehensions.
- * Lesson 9: Exception Handling – &#8728; Handling exceptions in Python.
- * Lesson 10: Python Dates and Times – &#8728; The `time` module &#8728; The `datetime` module.
- * Lesson 11: File Processing – &#8728; Paths and the `pathlib.Path` and `os` modules &#8728; Reading files &#8728; Creating and writing to files &#8728; Working with directories.
- * Lesson 12: PEP8 and Pylint – &#8728; PEP8 &#8728; Pylint.
- * Lesson 13: Advanced Python Concepts – &#8728; Lambda functions &#8728; Advanced list comprehensions &#8728; The `collections` module &#8728; Mapping and filtering &#8728; Sorting sequences &#8728; Unpacking sequences in function calls &#8728; Modules and packages.
- * Lesson 14: Regular Expressions – &#8728; Understanding regular expressions &#8728; Python’s `re` module.
- * Lesson 15: Working with Data – &#8728; Data stored in a relational database &#8728; Data stored in a CSV file &#8728; Data from a web page &#8728; HTML, XML, and JSON &#8728; Accessing an API.
- * Lesson 16: Testing and Debugging – &#8728; Testing performance with timers and the `timeit` module &#8728; The `unittest` module.
- * Lesson 17: Classes and Objects – &#8728; Classes and objects in Python &#8728; Instance methods, class methods, and static methods &#8728; Properties &#8728; Decorators &#8728; Subclasses and inheritance.
- * Lesson 18: JupyterLab – &#8728; JupyterLab &#8728; Jupyter notebooks &#8728; Markdown.
- * Lesson 19: NumPy – &#8728; The purpose of NumPy &#8728; One-dimensional NumPy arrays &#8728; Two-dimensional NumPy arrays &#8728; Using boolean arrays to create new arrays.
- * Lesson 20: pandas – &#8728; The purpose of `pandas` &#8728; `Series` objects and one-dimensional data &#8728; `DataFrame` objects to two-dimensional data &#8728; Creating plots with `matplotlib`.
- * Lesson 21: What Now? – &#8728; Where do you go from here?
+ * **Lesson 1: Setting Up Your Computer** – &#8728; Getting the demo and exercise files &#8728; Installing software.
+ * **Lesson 2: Python Basics** – &#8728; How Python works &#8728; Python’s place in the world of programming languages &#8728; Python literals &#8728; Python comments &#8728; Variables and Python data types &#8728; Simple modules &#8728; Outputting data with `print()` &#8728; Collecting user input.
+ * **Lesson 3: Functions and Modules** – &#8728; Defining and calling functions &#8728; Parameters and arguments &#8728; Default values for parameters &#8728; Variable scope &#8728; Return values &#8728; Creating and importing modules.
+ * **Lesson 4: Math** – &#8728; Basic math in Python &#8728; The `math` module &#8728; The `random` module.
+ * **Lesson 5: Python Strings** – &#8728; String basics &#8728; Special characters &#8728; Multi-line strings &#8728; Indexing and slicing strings &#8728; Common string operators and methods &#8728; Formatting strings &#8728; Built-in string functions.
+ * **Lesson 6: Iterables: Sequences, Dictionaries, and Sets** – &#8728; Types of iterables available in Python &#8728; Lists &#8728; Tuples &#8728; Ranges &#8728; Dictionaries &#8728; Sets &#8728; The `*args` and `**kwargs` parameters.
+ * **Lesson 7: Virtual Environments, Packages, and pip** – &#8728; Creating virtual environments &#8728; Activating and deactivating virtual environments &#8728; Installing packages with pip &#8728; Sharing project requirements so others can create a matching virtual environment &#8728; Deleting a virtual environment.
+ * **Lesson 8: Flow Control** – &#8728; `if` conditions in Python &#8728; Loops in Python &#8728; Generator functions &#8728; List comprehensions.
+ * **Lesson 9: Exception Handling** – &#8728; Handling exceptions in Python.
+ * **Lesson 10: Python Dates and Times** – &#8728; The `time` module &#8728; The `datetime` module.
+ * **Lesson 11: File Processing** – &#8728; Paths and the `pathlib.Path` and `os` modules &#8728; Reading files &#8728; Creating and writing to files &#8728; Working with directories.
+ * **Lesson 12: PEP8 and Pylint** – &#8728; PEP8 &#8728; Pylint.
+ * **Lesson 13: Advanced Python Concepts** – &#8728; Lambda functions &#8728; Advanced list comprehensions &#8728; The `collections` module &#8728; Mapping and filtering &#8728; Sorting sequences &#8728; Unpacking sequences in function calls &#8728; Modules and packages.
+ * **Lesson 14: Regular Expressions** – &#8728; Understanding regular expressions &#8728; Python’s `re` module.
+ * **Lesson 15: Working with Data** – &#8728; Data stored in a relational database &#8728; Data stored in a CSV file &#8728; Data from a web page &#8728; HTML, XML, and JSON &#8728; Accessing an API.
+ * **Lesson 16: Testing and Debugging** – &#8728; Testing performance with timers and the `timeit` module &#8728; The `unittest` module.
+ * **Lesson 17: Classes and Objects** – &#8728; Classes and objects in Python &#8728; Instance methods, class methods, and static methods &#8728; Properties &#8728; Decorators &#8728; Subclasses and inheritance.
+ * **Lesson 18: JupyterLab** – &#8728; JupyterLab &#8728; Jupyter notebooks &#8728; Markdown.
+ * **Lesson 19: NumPy** – &#8728; The purpose of NumPy &#8728; One-dimensional NumPy arrays &#8728; Two-dimensional NumPy arrays &#8728; Using boolean arrays to create new arrays.
+ * **Lesson 20: pandas** – &#8728; The purpose of `pandas` &#8728; `Series` objects and one-dimensional data &#8728; `DataFrame` objects to two-dimensional data &#8728; Creating plots with `matplotlib`.
+ * **Lesson 21: What Now?** – &#8728; Where do you go from here?
 
 ## About Webucator
 [Webucator](https://www.webucator.com) provides technical and business training. We have provided training to over 70% of the Fortune 100 companies (See [Partial Client List](https://www.webucator.com/about-us/client-list.cfm)).
