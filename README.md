@@ -54,12 +54,9 @@ But be a good student too. When reading this book, you should be sitting at your
 
 ## About Webucator
 [Webucator](https://www.webucator.com) provides technical and business training. We have provided training to over 70% of the Fortune 100 companies (See [Partial Client List](https://www.webucator.com/about-us/client-list.cfm)).
-### PRIVATE CLASSES
-Our private classes can be delivered at your offices, in a nearby hotel or rented training room, or in a live virtual environment.
-### PUBLIC CLASSES
-Our public classes are delivered in a live virtual environment by an expert instructor.
-### SELF-PACED COURSES
-We also offer self-paced courses that are available on-demand 24/7.
+ * **PRIVATE CLASSES** – Our private classes can be delivered at your offices, in a nearby hotel or rented training room, or in a live virtual environment.
+ * **PUBLIC CLASSES** – Our public classes are delivered in a live virtual environment by an expert instructor.
+ * **SELF-PACED COURSES** – We also offer self-paced courses that are available on-demand 24/7.
 
 ## About Nat Dunn
 Nat Dunn founded [Webucator](https://www.webucator.com) in 2003 to combine his passion for technical training with his business expertise, and to help companies benefit from both. After spending the first several years developing and delivering classes throughout the United States, Nat expanded Webucator's team of trainers to teach topics outside of his own expertise. Webucator now offers classes on Microsoft technologies such as Office, ASP.NET, and SharePoint; Web technologies such as HTML, CSS, JavaScript, React, Vue.js, Angular, and PHP; Adobe software such as Photoshop, InDesign, and Illustrator; programming languages, such as Java, Python, and R; database technologies, such as SQL Server, Oracle, and MySQL; and much more.
