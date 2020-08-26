@@ -1,5 +1,5 @@
 # Actionable Python Class Files
-<img src="pyt-222-cover.jpg" alt="Book Cover" style="float:left; margin:0 1em 1em 0;">
+<img src="pyt-222-cover.jpg" alt="Book Cover" align="left">
 This repository contains the class files used in our [Actionable Python book](https://www.amazon.com/Actionable-Python-Course-New-Python-Programmers/dp/1951959050).
 
 ## Book Description
