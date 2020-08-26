@@ -1,0 +1,2 @@
+today = "Monday"
+print(today)

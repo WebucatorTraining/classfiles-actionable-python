@@ -1,0 +1,40 @@
+{
+  "list": [{
+    "dt": 1581886800,
+    "main": {
+      "temp": 36.86,
+      "feels_like": 29.97,
+      "temp_min": 33.22,
+      "temp_max": 36.86,
+      "humidity": 98
+    },
+    "wind": {
+      "speed": 7.11,
+      "deg": 243
+    },
+    "dt_txt": "2020-02-16 21:00:00"
+  }, {
+    "dt": 1581897600,
+    "main": {
+      "temp": 30.65,
+      "feels_like": 23.94,
+      "temp_min": 27.93,
+      "temp_max": 30.65,
+      "humidity": 94
+    },
+    "wind": {
+      "speed": 4.85,
+      "deg": 254
+    },
+    "dt_txt": "2020-02-17 00:00:00"
+  }],
+  "city": {
+    "id": 5140405,
+    "name": "Syracuse",
+    "country": "US",
+    "population": 145170,
+    "timezone": -18000,
+    "sunrise": 1581854499,
+    "sunset": 1581892559
+  }
+}
