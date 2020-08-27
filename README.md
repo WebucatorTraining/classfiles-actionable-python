@@ -1,6 +1,6 @@
 # Actionable Python Class Files
-[<img src="pyt-222-cover.jpg" alt="Book Cover" align="left">](https://www.amazon.com/Actionable-Python-Course-New-Python-Programmers/dp/1951959050)
-This repository contains the class files used in our [Actionable Python book](https://www.amazon.com/Actionable-Python-Course-New-Python-Programmers/dp/1951959050).
+[<img src="pyt-222-cover.jpg" alt="Book Cover" align="left">](https://www.amazon.com/dp/1951959051)
+This repository contains the class files used in our [Actionable Python book](https://www.amazon.com/dp/1951959051).
 
 ## Book Description
 Learning to program is hard. Don't let anyone tell you different. If you bought or are considering buying this book because someone told you that you should learn Python, then maybe you should reconsider. The big question to ask yourself is "Do you want to learn Python?" Certainly, this book will help you answer that question, but be prepared to struggle, and to make mistakes, and to get frustrated, and to bang your head against the keyboard. This is Pandora's box, baby, but...
